@@ -25,8 +25,12 @@ Software professional, strong in design and integration with intuitive problem-s
 
 </div>
 
+<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooja9872&show_icons=true&locale=en&layout=compact&theme=radical" alt="pooja9872" /></p>
+
+<br/>
 
 <a href="https://github.com/pooja9872/github-readme-activity-graph"><img alt="pooja Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pooja9872&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
