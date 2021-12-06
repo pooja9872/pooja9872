@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pooja Kumari</h1>
-<h3 align="center">A passionate young frontend developer from India.</h3>
+# Hi There! I'm Pooja Kumari<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
+
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="1000px" height="219px">
 
 Software professional, strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, React.JS. Passionate about implementing and learning new things, with the ability to translate business requirements into technical solutions. Looking to start my career as an entry-level software engineer with a challenging firm driven by technology.
@@ -7,10 +7,6 @@ Software professional, strong in design and integration with intuitive problem-s
 - 🌱 I’m currently learning **Advance Data Structure and Algorithm, Advanced Redux**
 
 - 💬 Ask me about **React, Data Structure and Algorithm, Javascript**
-
-- 📫 How to reach me **pk95765586@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1joOADNHSkvMPxw8BbD6TqHtIKTNY4guZ/view?usp=sharing](https://drive.google.com/file/d/1joOADNHSkvMPxw8BbD6TqHtIKTNY4guZ/view?usp=sharing)
 
 - ⚡ Fun fact **Love to solve puzzle**
 
@@ -22,10 +18,14 @@ Software professional, strong in design and integration with intuitive problem-s
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" color="yellow"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
+<br/><br/><br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooja9872&show_icons=true&locale=en&layout=compact" alt="pooja9872" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooja9872&show_icons=true&locale=en" alt="pooja9872" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooja9872&" alt="pooja9872" /></p>
+
+<a href="https://github.com/pooja9872/github-readme-activity-graph"><img alt="pooja Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pooja9872&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
