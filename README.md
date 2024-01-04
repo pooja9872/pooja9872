@@ -34,4 +34,7 @@ Software professional, strong in design and integration with intuitive problem-s
 
 <br/>
 
-<a href="https://github.com/pooja9872/github-readme-activity-graph"><img alt="pooja Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=pooja9872&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="pooja9872" /></a>
+<a href="https://github.com/pooja9872/github-readme-activity-graph">
+  <img alt="pooja Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pooja9872&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
